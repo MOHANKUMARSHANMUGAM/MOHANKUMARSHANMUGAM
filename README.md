@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MOHANKUMARSHANMUGAM
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java and Sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @MOHAN
+- 👀 I’m interested in learn new tech
+- 🌱 I’m currently learning Java,React JS and Sql
+- 💞️ I’m looking to collaborate on With all of 
 
 <!---
 MOHANKUMARSHANMUGAM/MOHANKUMARSHANMUGAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
